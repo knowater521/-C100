@@ -1,5 +1,5 @@
 /*
-	ÕÒËØÊı
+	æ‰¾ç´ æ•°
 */
 #include <stdio.h>
 #include <math.h>
@@ -17,7 +17,7 @@ int main()
 				break;
 			}
 		}
-		if(j>=sqrt(i)) //ÕâÀï´óÓÚºÅÈİÒ×´í
+		if(j>=sqrt(i)) //è¿™é‡Œå¤§äºå·å®¹æ˜“é”™
 			printf("%d\n",i);
 
 	}
